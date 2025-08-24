@@ -9,7 +9,7 @@ body {
     margin: auto;
     line-height: 1.5em;
     font-family: 'Courier New', Courier, monospace;
-    max-width: 70em;
+    max-width: 55em;
 }
 
 img {
@@ -122,6 +122,14 @@ article h2 {
     margin-bottom: 0;
     line-height: 1em;
     margin-top: 2em;    
+}
+
+article fn {
+    font-size: 1em;
+    color: gray;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 p.meta {
